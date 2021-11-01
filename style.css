@@ -1,0 +1,13 @@
+/* html,
+body {
+  background-color: rgb(18, 18, 18);
+  color: white;
+} */
+
+.padding-small {
+  padding: 10px;
+}
+
+.padding-medium {
+  padding: 60px;
+}
